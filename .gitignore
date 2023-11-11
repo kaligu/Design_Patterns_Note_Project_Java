@@ -1,0 +1,4 @@
+# Project exclude paths
+/Behavioral/target/
+/Creational/target/
+/Structural/target/
